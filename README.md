@@ -10,7 +10,7 @@
 - Deliverables:
   - Linux setup with g++, netcat, curl
   - “Hello world” socket server in C++
-- Time estimate: 2–3 days
+- Time estimate: 27 June
 
 ### Phase 1 – Basic Socket HTTP Server
 - Goals:
